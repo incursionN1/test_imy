@@ -1,0 +1,14 @@
+
+{
+  "name": "project/site",
+  "repositories": [{
+    "type": "vcs",
+    "url": "https://github.com/feastker/imy-core.git"
+  }],
+  "require": {
+    "imy/core": "dev-main"
+  },
+  "config" : {
+    "platform-check": false
+  }
+}

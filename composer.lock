@@ -1,0 +1,47 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "518fd9954b983224232d1d07d377c74f",
+    "packages": [
+        {
+            "name": "imy/core",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/feastker/imy-core.git",
+                "reference": "a8376c463471ef6882df847fd296a18bf31aa2cc"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/feastker/imy-core/zipball/a8376c463471ef6882df847fd296a18bf31aa2cc",
+                "reference": "a8376c463471ef6882df847fd296a18bf31aa2cc",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.1|^8.0"
+            },
+            "default-branch": true,
+            "type": "library",
+            "description": "Core library",
+            "support": {
+                "source": "https://github.com/feastker/imy-core/tree/main",
+                "issues": "https://github.com/feastker/imy-core/issues"
+            },
+            "time": "2025-04-08T10:23:04+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "imy/core": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
+}
